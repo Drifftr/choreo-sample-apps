@@ -2,7 +2,7 @@
 
 ## Sample Java REST API
 
-#### Use the following build config when creating this component in Choreo:
+#### Use the following build config when creating this component in Choreo: New
 
 - Dockerfile: `java/rest-api/Dockerfile`
 - Docker context: `java/rest-api/`
